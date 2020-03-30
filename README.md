@@ -12,3 +12,5 @@ Obs0: No colab, o ultimo mapa não funcionou por algum motivo, não investi temp
 Problema da obs0: O gráfico fica oculto no momento em que deve ser renderizado.
 
 Obs1: O arquivo .json utilizado como mapa é muito grande, dessa forma ficou um pouco pesado para renderizar, porém funciona, esse ponto pode ser melhorado tranquilamente, no entanto, não investi tempo para melhorar esse outro ponto.
+
+Obs2: O ultimo mapa poderia chamar por default na sua inicialização o mapa referente ao ponto 1 do intervalo.
