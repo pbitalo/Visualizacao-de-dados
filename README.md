@@ -8,9 +8,9 @@ O documento é predestinado a estudantes da área.
 Link de acesso via Colab (Google): 
 https://colab.research.google.com/drive/1I9mcVCPpjVMpE8VVm0KMI8vJcvtKYI49#scrollTo=zSkHF9zlaUpS
 
-Obs0: No colab, o ultimo mapa não funcionou por algum motivo, não investi tempo para solucionar o problema, porém o arquivo .ipynb disponibilizado no repositório está funcionando.
+Obs0/melhoria: No colab, o ultimo mapa não funcionou por algum motivo, não investi tempo para solucionar o problema, porém o arquivo .ipynb disponibilizado no repositório está funcionando.
 Problema da obs0: O gráfico fica oculto no momento em que deve ser renderizado.
 
-Obs1: O arquivo .json utilizado como mapa é muito grande, dessa forma ficou um pouco pesado para renderizar, porém funciona, esse ponto pode ser melhorado tranquilamente, no entanto, não investi tempo para melhorar esse outro ponto.
+Obs1/melhoria: O arquivo .json utilizado como mapa é muito grande, dessa forma ficou um pouco pesado para renderizar, porém funciona, esse ponto pode ser melhorado tranquilamente, no entanto, não investi tempo para melhorar esse outro ponto.
 
-Obs2: O ultimo mapa poderia chamar por default na sua inicialização o mapa referente ao ponto 1 do intervalo.
+Obs2/melhoria: O ultimo mapa poderia chamar por default na sua inicialização o mapa referente ao ponto 1 do intervalo.
