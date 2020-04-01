@@ -1,7 +1,7 @@
 # Visualizacao-de-dados
 Conteúdo sobre visualização de dados (Ciência de Dados)
 
-Este projeto foi desenvolvido como atividade final da disciplina Visualização de Dados do curso de pós graduação em ciência de dados, o objetivo do mesmo é documentar informações sobre o coronavírus (tema escolhido por estar em evidência na atualidade) através de dados textuais e gráficos.
+Este projeto foi desenvolvido como atividade final da disciplina Visualização de Dados do curso de pós graduação em ciência de dados, o objetivo é documentar informações sobre o coronavírus (tema escolhido por estar em evidência na atualidade) através de dados textuais e gráficos.
 
 O documento é predestinado a estudantes da área.
 
